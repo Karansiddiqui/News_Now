@@ -28,6 +28,20 @@ Tailor your news consumption to your preferences with a range of customization o
 - **Date Filters**: Focus on specific time periods with customizable date ranges.
 - **Styling Options**: Customize the app's appearance with a variety of color themes and text sizes.
 
+## Screenshots
+
+1. News Feed
+
+
+
+2. Category Navigation
+
+![App Screenshot](ScreenShots/menu.png)
+
+3. Customization Options
+
+![App Screenshot](ScreenShots/customization.png)
+
 ## Usage
 
 Launch the application, and embark on a journey through different categories, where each swipe brings you closer to a wealth of knowledge. Personalize your experience by adjusting settings to match your preferences.
