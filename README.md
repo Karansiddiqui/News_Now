@@ -32,7 +32,7 @@ Tailor your news consumption to your preferences with a range of customization o
 
 1. News Feed
 
-![App Screenshot](ScreenShots/Untitled Project.jpg)
+![App Screenshot](ScreenShots/homePage.jpg)
 
 2. Category Navigation
 
