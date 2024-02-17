@@ -27,29 +27,7 @@ Tailor your news consumption to your preferences with a range of customization o
 - **Order By**: Sort articles based on criteria such as newest, relevance, or popularity.
 - **Date Filters**: Focus on specific time periods with customizable date ranges.
 - **Styling Options**: Customize the app's appearance with a variety of color themes and text sizes.
-## Screenshots
 
-1. News Feed
-
-![App Screenshot](ScreenShots/homePage.png)
-
-2. Category Navigation
-
-![App Screenshot](ScreenShots/menu.png)
-
-3. Customization Options
-
-![App Screenshot](ScreenShots/customization.png)
-
-
-## Installation
-
-Clone the repository:
-
-```bash
-  git clone https://github.com/nishantxrana/NewsSurf-webview.git
-```
-    
 ## Usage
 
 Launch the application, and embark on a journey through different categories, where each swipe brings you closer to a wealth of knowledge. Personalize your experience by adjusting settings to match your preferences.
